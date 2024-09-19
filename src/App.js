@@ -58,7 +58,7 @@ function App() {
   }
   return(
     <div className="estilo">
-      <h1>T1-Lee Akio Bruno Mauricio Taboada </h1>
+      <h1>T1-Lee Akio Bruno Mauricio Taboada - n00295053</h1>
       {submitting &&
        <div>
          Listar:
